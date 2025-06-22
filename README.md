@@ -14,3 +14,33 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 - Income Analysis
 - Expenditure Pattern
 - Customer’s Income Utilization
+# Demographic Insights
+- There are 4000 customers, 2597 are males & 1403 are females.
+- The prime age group of 24-34 years old constitutes the highest customer count.
+- Mumbai has the highest no. of customers with 1078, followed by Chennai with 834 customers.
+- Salaried IT employees emerge as the most prominent potential customer segment.
+
+# Expenditure Pattern
+-Male customers exhibit higher expenditures to their female counterparts.
+- Age group 25-34 emerges as the highest spender, followed by age group 35-45 as second.
+- Customer spends major portion of its income towards bills, groceries, and electronics.
+- Salaried IT employees stand out as the highest spenders in various categories, including bills, groceries, electronics, and health and wellness.
+- Align credit card features with the months (August & September) when customers spend the most to maximize customer engagement.
+
+# Customer’s Income Utilization
+- Higher the average income utilization rate %, the Customer is more likelihood to use credit cards.
+-Salaried IT employees has the highest average income per month among all others occupation.
+- Salaried IT employees has the highest average income utilization Rate 51%, followed by Freelancers with 46% as second.
+- Customer spends major portion of its income towards bills, groceries, electronics and Health & Wellness.
+-Based on Occupation, Both Salaried IT employees & Freelancers make major portion of Payment through credit card.
+-Align credit card features with peak spending months like August and September, which have the highest average income utilization rates, increasing the likelihood of customer engagement.
+- Mumbai has 51.43% average income utilization rate, followed by Delhi NCR with 48.03% as second.
+
+# Recommendations
+-Focus marketing efforts on the 25-34 & 35-45 age groups due to their high credit card usage based on Mumbai and Delhi NCR regions.
+-Regularly update promotions and offers to align with evolving consumer behavior. 
+-Explore partnerships or introduce specialized rewards or discounts to boost spending in bills, groceries, electronics, food, health and travel categories to f---Further enhance credit card usage.
+- Craft specialized (loyalty programs or perks) credit card offers for Salaried IT employees & freelancers, considering their higher usage.
+- Introduce exclusive benefits for Salaried other employees and Business owners to increase their average income utilization.
+- Align credit card features with peak spending months like August and September. 
+- Plan Seasonal promotions around July & October months to further maximize customer engagement.
