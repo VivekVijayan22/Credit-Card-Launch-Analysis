@@ -19,7 +19,11 @@ Mitron Bank is a legacy financial institution headquartered in Hyderabad. They w
 - The prime age group of 24-34 years old constitutes the highest customer count.
 - Mumbai has the highest no. of customers with 1078, followed by Chennai with 834 customers.
 - Salaried IT employees emerge as the most prominent potential customer segment.
-
+  # Income Analysis
+- Salaried IT Employees earn ₹61.50K monthly and have the highest utilization rate at 51.04%, showing high spending engagement.
+- Freelancers earn the least (₹35.06K) but still utilize 46.71% of their income monthly.
+- Government Employees exhibit the most conservative financial behavior, with 29% utilization despite decent income (₹52.03K).
+-Income utilization peaked in August (49%) and September (56%), aligning with the festival season, indicating a significant rise in consumer spending during this period.
 # Expenditure Pattern
 - Male customers exhibit higher expenditures to their female counterparts.
 - Age group 25-34 emerges as the highest spender, followed by age group 35-45 as second.
